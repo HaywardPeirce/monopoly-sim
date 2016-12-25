@@ -1,0 +1,198 @@
+[
+ {
+   "Name": "Mediterranean Ave.",
+   "Position": 2,
+   "Price": 60,
+   "Rent": "2",
+   "Group": "Purple"
+ },
+ {
+   "Name": "Baltic Ave.",
+   "Position": 4,
+   "Price": 60,
+   "Rent": "4",
+   "Group": "Purple"
+ },
+ {
+   "Name": "Oriental Ave.",
+   "Position": 7,
+   "Price": 100,
+   "Rent": "6",
+   "Group": "Light-Blue"
+ },
+ {
+   "Name": "Vermont Ave.",
+   "Position": 9,
+   "Price": 100,
+   "Rent": "6",
+   "Group": "Light-Blue"
+ },
+ {
+   "Name": "Connecticut Ave.",
+   "Position": 10,
+   "Price": 120,
+   "Rent": "8",
+   "Group": "Light-Blue"
+ },
+ {
+   "Name": "St. Charles Place",
+   "Position": 12,
+   "Price": 140,
+   "Rent": "10",
+   "Group": "Violet"
+ },
+ {
+   "Name": "States Ave.",
+   "Position": 14,
+   "Price": 140,
+   "Rent": "10",
+   "Group": "Violet"
+ },
+ {
+   "Name": "Virginia Ave.",
+   "Position": 15,
+   "Price": 160,
+   "Rent": "12",
+   "Group": "Violet"
+ },
+ {
+   "Name": "St. James Place",
+   "Position": 17,
+   "Price": 180,
+   "Rent": "14",
+   "Group": "Orange"
+ },
+ {
+   "Name": "Tennessee Ave.",
+   "Position": 19,
+   "Price": 180,
+   "Rent": "14",
+   "Group": "Orange"
+ },
+ {
+   "Name": "New York Ave.",
+   "Position": 20,
+   "Price": 200,
+   "Rent": "16",
+   "Group": "Orange"
+ },
+ {
+   "Name": "Kentucky Ave.",
+   "Position": 22,
+   "Price": 220,
+   "Rent": "18",
+   "Group": "Red"
+ },
+ {
+   "Name": "Indiana Ave.",
+   "Position": 24,
+   "Price": 220,
+   "Rent": "18",
+   "Group": "Red"
+ },
+ {
+   "Name": "Illinois Ave.",
+   "Position": 25,
+   "Price": 240,
+   "Rent": "20",
+   "Group": "Red"
+ },
+ {
+   "Name": "Atlantic Ave.",
+   "Position": 27,
+   "Price": 260,
+   "Rent": "22",
+   "Group": "Yellow"
+ },
+ {
+   "Name": "Ventnor Ave.",
+   "Position": 28,
+   "Price": 260,
+   "Rent": "22",
+   "Group": "Yellow"
+ },
+ {
+   "Name": "Marvin Gardens",
+   "Position": 30,
+   "Price": 280,
+   "Rent": "24",
+   "Group": "Yellow"
+ },
+ {
+   "Name": "Pacific Ave.",
+   "Position": 32,
+   "Price": 300,
+   "Rent": "26",
+   "Group": "Dark-Green"
+ },
+ {
+   "Name": "North Carolina Ave.",
+   "Position": 33,
+   "Price": 300,
+   "Rent": "26",
+   "Group": "Dark-Green"
+ },
+ {
+   "Name": "Pennsylvania Ave.",
+   "Position": 35,
+   "Price": 320,
+   "Rent": "28",
+   "Group": "Dark-Green"
+ },
+ {
+   "Name": "Park Place",
+   "Position": 38,
+   "Price": 350,
+   "Rent": "35",
+   "Group": "Dark-Blue"
+ },
+ {
+   "Name": "Boardwalk",
+   "Position": 40,
+   "Price": 400,
+   "Rent": "50",
+   "Group": "Dark-Blue"
+ },
+ {
+   "Name": "Electric Company",
+   "Position": 13,
+   "Price": 150,
+   "Rent": "*",
+   "Group": "Utilities"
+ },
+ {
+   "Name": "Water Works",
+   "Position": 29,
+   "Price": 150,
+   "Rent": "*",
+   "Group": "Utilities"
+ },
+ {
+   "Name": "Reading Railroad",
+   "Position": 6,
+   "Price": 200,
+   "Rent": "**",
+   "Group": "Railroad"
+ },
+ {
+   "Name": "Pennsylvania Railroad",
+   "Position": 16,
+   "Price": 200,
+   "Rent": "**",
+   "Group": "Railroad"
+ },
+ {
+   "Name": "B. & O. Railroad",
+   "Position": 26,
+   "Price": 200,
+   "Rent": "**",
+   "Group": "Railroad"
+ },
+ {
+   "Name": "Short Line Railroad",
+   "Position": 36,
+   "Price": 200,
+   "Rent": "**",
+   "Group": "Railroad"
+ }
+]
