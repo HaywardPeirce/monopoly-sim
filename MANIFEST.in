@@ -1,2 +1,2 @@
-properties.json
-places.json
+include properties.json
+include places.json
