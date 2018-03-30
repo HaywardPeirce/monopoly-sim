@@ -20,7 +20,7 @@ class Player(object):
 
 def getProperties():
     #with open('../monopoly-sim/properties.json') as sources_file:    
-    with open(os.path.join(data_dir, "properties.json") ) as sources_file:
+    with open(os.path.join(monopoly_data_dir, "properties.json") ) as sources_file:
         properties = json.load(sources_file)
     
     #print properties
@@ -29,7 +29,7 @@ def getProperties():
     
 def getPlaces():
     #with open('../monopoly-sim/places.json') as sources_file:   
-    with open(os.path.join(data_dir, "places.json") ) as sources_file:
+    with open(os.path.join(monopoly_data_dir, "places.json") ) as sources_file:
         properties = json.load(sources_file)
     
     #print properties
