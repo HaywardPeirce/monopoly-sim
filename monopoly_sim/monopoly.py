@@ -1,7 +1,5 @@
 from random import *
-import json
-import csv
-import os
+import json, csv, os, sys
 
 monopoly_data_dir = os.path.join(sys.prefix, "local/lib/python2.7/dist-package/monopoly_sim")
 

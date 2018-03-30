@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='monopoly_sim',
-      version='0.0.8',
+      version='0.0.9',
       description='A monopoly game simulator',
       install_requires=['setuptools>=4.0.1'],
       url='https://github.com/HaywardPeirce/monopoly-sim',
