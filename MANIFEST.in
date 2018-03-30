@@ -1,2 +1,2 @@
-include monopoly-sim/properties.json
-include monopoly-sim/places.json
+include monopoly_sim/properties.json
+include monopoly_sim/places.json

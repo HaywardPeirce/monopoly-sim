@@ -2,6 +2,7 @@ from random import *
 import json
 import csv
 
+monopoly_data_dir = os.path.join(sys.prefix, "local/lib/python2.7/dist-package/monopoly-sim")
 
 
 #player class
@@ -19,7 +20,8 @@ class Player(object):
         self.propertyList = propertyList
 
 def getProperties():
-    with open('../monopoly-sim/properties.json') as sources_file:    
+    #with open('../monopoly-sim/properties.json') as sources_file:    
+    with open(os.path.join(data_dir, "properties.json") ) as sources_file:
         properties = json.load(sources_file)
     
     #print properties
