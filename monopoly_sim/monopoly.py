@@ -1,7 +1,7 @@
 from random import *
 import json, csv, os, sys
 
-monopoly_data_dir = os.path.join(sys.prefix, "local/lib/python2.7/dist-package/monopoly_sim")
+monopoly_data_dir = os.path.join(sys.prefix, "local/lib/python2.7/dist-packages/monopoly_sim")
 
 
 #player class
